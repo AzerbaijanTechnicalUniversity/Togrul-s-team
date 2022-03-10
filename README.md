@@ -82,3 +82,6 @@ namespace WindowsFormsApp2
         }
     }
 }
+
+
+### QEYD** Layihənin hazırlanması üçün https://youtube.com/playlist?list=PLa6kneNR-u-2cjGjLWXOB01urTa2RrsRs video dərsliklərdən istifadə edilib.
